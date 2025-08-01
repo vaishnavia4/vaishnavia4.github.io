@@ -1,16 +1,12 @@
 <h1 align="center">Hey Everyone 👋, I'm Vaishnavi</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vaishnavia4/vaishnavia4/main/Banner.png" alt="Banner" />
-</div>
-
 <h3 align="center">Cloud & DevOps Engineer • Automation Enthusiast • AI Innovator</h3>
 
 <p align="center">
   <a href="https://github.com/vaishnavia4">
     <img src="https://img.shields.io/github/followers/vaishnavia4?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/vaishnavia4" target="_blank">
+  <a href="https://linkedin.com/in/vaishnavia24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -31,7 +27,7 @@
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/vaishnavia4" target="blank">
+  <a href="https://linkedin.com/in/vaishnavia24" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="mailto:vaishnavidevops@gmail.com" target="blank">
